@@ -14,7 +14,7 @@ Use this section to briefly introduce yourself and highlight your experience and
 - 📫 How to reach me:  
   - [LinkedIn](https://www.linkedin.com/in/rodrigolousada/)
   - [Personal Website](https://rodrigolousada.me)
-  - Email: [rodrigo.m.lousada@gmail.com}(mailto:rodrigo.m.lousada@gmail.com)
+  - Email: [rodrigo.m.lousada@gmail.com](mailto:rodrigo.m.lousada@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have experience as an **event coordinator** for one of Portugal's largest tech conferences, **SINFO**.
 
